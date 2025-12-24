@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "arenaapptv-droid",
+  "repo": "container-bcn7mhs",
+  "name": "arenaapptv-droid",
+  "email": "arenaapptv@gmail.com",
+}
